@@ -1,0 +1,15 @@
+C:\Users\omerc\RiderProjects\EgitimSolution\ClassAndRecords\bin\Debug\net6.0\ClassAndRecords.exe
+C:\Users\omerc\RiderProjects\EgitimSolution\ClassAndRecords\bin\Debug\net6.0\ClassAndRecords.deps.json
+C:\Users\omerc\RiderProjects\EgitimSolution\ClassAndRecords\bin\Debug\net6.0\ClassAndRecords.runtimeconfig.json
+C:\Users\omerc\RiderProjects\EgitimSolution\ClassAndRecords\bin\Debug\net6.0\ClassAndRecords.dll
+C:\Users\omerc\RiderProjects\EgitimSolution\ClassAndRecords\bin\Debug\net6.0\ClassAndRecords.pdb
+C:\Users\omerc\RiderProjects\EgitimSolution\ClassAndRecords\obj\Debug\net6.0\ClassAndRecords.csproj.AssemblyReference.cache
+C:\Users\omerc\RiderProjects\EgitimSolution\ClassAndRecords\obj\Debug\net6.0\ClassAndRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerc\RiderProjects\EgitimSolution\ClassAndRecords\obj\Debug\net6.0\ClassAndRecords.AssemblyInfoInputs.cache
+C:\Users\omerc\RiderProjects\EgitimSolution\ClassAndRecords\obj\Debug\net6.0\ClassAndRecords.AssemblyInfo.cs
+C:\Users\omerc\RiderProjects\EgitimSolution\ClassAndRecords\obj\Debug\net6.0\ClassAndRecords.csproj.CoreCompileInputs.cache
+C:\Users\omerc\RiderProjects\EgitimSolution\ClassAndRecords\obj\Debug\net6.0\ClassAndRecords.dll
+C:\Users\omerc\RiderProjects\EgitimSolution\ClassAndRecords\obj\Debug\net6.0\refint\ClassAndRecords.dll
+C:\Users\omerc\RiderProjects\EgitimSolution\ClassAndRecords\obj\Debug\net6.0\ClassAndRecords.pdb
+C:\Users\omerc\RiderProjects\EgitimSolution\ClassAndRecords\obj\Debug\net6.0\ClassAndRecords.genruntimeconfig.cache
+C:\Users\omerc\RiderProjects\EgitimSolution\ClassAndRecords\obj\Debug\net6.0\ref\ClassAndRecords.dll

@@ -1,0 +1,7 @@
+C:\Users\omerc\RiderProjects\EgitimSolution\EsmaOdev\bin\Debug\EsmaOdev.exe
+C:\Users\omerc\RiderProjects\EgitimSolution\EsmaOdev\bin\Debug\EsmaOdev.pdb
+C:\Users\omerc\RiderProjects\EgitimSolution\EsmaOdev\obj\Debug\EsmaOdev.csproj.AssemblyReference.cache
+C:\Users\omerc\RiderProjects\EgitimSolution\EsmaOdev\obj\Debug\EsmaOdev.csproj.SuggestedBindingRedirects.cache
+C:\Users\omerc\RiderProjects\EgitimSolution\EsmaOdev\obj\Debug\EsmaOdev.csproj.CoreCompileInputs.cache
+C:\Users\omerc\RiderProjects\EgitimSolution\EsmaOdev\obj\Debug\EsmaOdev.exe
+C:\Users\omerc\RiderProjects\EgitimSolution\EsmaOdev\obj\Debug\EsmaOdev.pdb

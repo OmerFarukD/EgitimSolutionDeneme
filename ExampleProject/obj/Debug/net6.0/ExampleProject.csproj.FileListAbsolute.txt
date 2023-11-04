@@ -1,0 +1,15 @@
+C:\Users\omerc\RiderProjects\EgitimSolution\ExampleProject\bin\Debug\net6.0\ExampleProject.exe
+C:\Users\omerc\RiderProjects\EgitimSolution\ExampleProject\bin\Debug\net6.0\ExampleProject.deps.json
+C:\Users\omerc\RiderProjects\EgitimSolution\ExampleProject\bin\Debug\net6.0\ExampleProject.runtimeconfig.json
+C:\Users\omerc\RiderProjects\EgitimSolution\ExampleProject\bin\Debug\net6.0\ExampleProject.dll
+C:\Users\omerc\RiderProjects\EgitimSolution\ExampleProject\bin\Debug\net6.0\ExampleProject.pdb
+C:\Users\omerc\RiderProjects\EgitimSolution\ExampleProject\obj\Debug\net6.0\ExampleProject.csproj.AssemblyReference.cache
+C:\Users\omerc\RiderProjects\EgitimSolution\ExampleProject\obj\Debug\net6.0\ExampleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerc\RiderProjects\EgitimSolution\ExampleProject\obj\Debug\net6.0\ExampleProject.AssemblyInfoInputs.cache
+C:\Users\omerc\RiderProjects\EgitimSolution\ExampleProject\obj\Debug\net6.0\ExampleProject.AssemblyInfo.cs
+C:\Users\omerc\RiderProjects\EgitimSolution\ExampleProject\obj\Debug\net6.0\ExampleProject.csproj.CoreCompileInputs.cache
+C:\Users\omerc\RiderProjects\EgitimSolution\ExampleProject\obj\Debug\net6.0\ExampleProject.dll
+C:\Users\omerc\RiderProjects\EgitimSolution\ExampleProject\obj\Debug\net6.0\refint\ExampleProject.dll
+C:\Users\omerc\RiderProjects\EgitimSolution\ExampleProject\obj\Debug\net6.0\ExampleProject.pdb
+C:\Users\omerc\RiderProjects\EgitimSolution\ExampleProject\obj\Debug\net6.0\ExampleProject.genruntimeconfig.cache
+C:\Users\omerc\RiderProjects\EgitimSolution\ExampleProject\obj\Debug\net6.0\ref\ExampleProject.dll

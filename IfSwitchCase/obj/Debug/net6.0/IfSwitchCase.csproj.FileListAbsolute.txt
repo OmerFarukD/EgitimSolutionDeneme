@@ -1,0 +1,15 @@
+C:\Users\omerc\RiderProjects\EgitimSolution\IfSwitchCase\bin\Debug\net6.0\IfSwitchCase.exe
+C:\Users\omerc\RiderProjects\EgitimSolution\IfSwitchCase\bin\Debug\net6.0\IfSwitchCase.deps.json
+C:\Users\omerc\RiderProjects\EgitimSolution\IfSwitchCase\bin\Debug\net6.0\IfSwitchCase.runtimeconfig.json
+C:\Users\omerc\RiderProjects\EgitimSolution\IfSwitchCase\bin\Debug\net6.0\IfSwitchCase.dll
+C:\Users\omerc\RiderProjects\EgitimSolution\IfSwitchCase\bin\Debug\net6.0\IfSwitchCase.pdb
+C:\Users\omerc\RiderProjects\EgitimSolution\IfSwitchCase\obj\Debug\net6.0\IfSwitchCase.csproj.AssemblyReference.cache
+C:\Users\omerc\RiderProjects\EgitimSolution\IfSwitchCase\obj\Debug\net6.0\IfSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerc\RiderProjects\EgitimSolution\IfSwitchCase\obj\Debug\net6.0\IfSwitchCase.AssemblyInfoInputs.cache
+C:\Users\omerc\RiderProjects\EgitimSolution\IfSwitchCase\obj\Debug\net6.0\IfSwitchCase.AssemblyInfo.cs
+C:\Users\omerc\RiderProjects\EgitimSolution\IfSwitchCase\obj\Debug\net6.0\IfSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\omerc\RiderProjects\EgitimSolution\IfSwitchCase\obj\Debug\net6.0\IfSwitchCase.dll
+C:\Users\omerc\RiderProjects\EgitimSolution\IfSwitchCase\obj\Debug\net6.0\refint\IfSwitchCase.dll
+C:\Users\omerc\RiderProjects\EgitimSolution\IfSwitchCase\obj\Debug\net6.0\IfSwitchCase.pdb
+C:\Users\omerc\RiderProjects\EgitimSolution\IfSwitchCase\obj\Debug\net6.0\IfSwitchCase.genruntimeconfig.cache
+C:\Users\omerc\RiderProjects\EgitimSolution\IfSwitchCase\obj\Debug\net6.0\ref\IfSwitchCase.dll

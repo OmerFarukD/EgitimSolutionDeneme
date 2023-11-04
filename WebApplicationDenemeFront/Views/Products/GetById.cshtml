@@ -1,0 +1,11 @@
+﻿@model Product
+
+<div class="card" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title">Ürün Detayı</h5>
+        <h6 class="card-subtitle mb-2 text-body-secondary">Ürün adı : @Model.Name</h6>
+        <p class="card-text">Ürün Değeri : @Model.Price</p>
+        <a asp-action="Index" asp-controller="Products" class="card-link">Ürünler Listesine git</a>
+        <a asp-action="Index" asp-controller="Home"  class="card-link">Anasayfaya git</a>
+    </div>
+</div>

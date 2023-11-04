@@ -1,0 +1,15 @@
+C:\Users\omerc\RiderProjects\EgitimSolution\LinqAdvanced\bin\Debug\net6.0\LinqAdvanced.exe
+C:\Users\omerc\RiderProjects\EgitimSolution\LinqAdvanced\bin\Debug\net6.0\LinqAdvanced.deps.json
+C:\Users\omerc\RiderProjects\EgitimSolution\LinqAdvanced\bin\Debug\net6.0\LinqAdvanced.runtimeconfig.json
+C:\Users\omerc\RiderProjects\EgitimSolution\LinqAdvanced\bin\Debug\net6.0\LinqAdvanced.dll
+C:\Users\omerc\RiderProjects\EgitimSolution\LinqAdvanced\bin\Debug\net6.0\LinqAdvanced.pdb
+C:\Users\omerc\RiderProjects\EgitimSolution\LinqAdvanced\obj\Debug\net6.0\LinqAdvanced.csproj.AssemblyReference.cache
+C:\Users\omerc\RiderProjects\EgitimSolution\LinqAdvanced\obj\Debug\net6.0\LinqAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerc\RiderProjects\EgitimSolution\LinqAdvanced\obj\Debug\net6.0\LinqAdvanced.AssemblyInfoInputs.cache
+C:\Users\omerc\RiderProjects\EgitimSolution\LinqAdvanced\obj\Debug\net6.0\LinqAdvanced.AssemblyInfo.cs
+C:\Users\omerc\RiderProjects\EgitimSolution\LinqAdvanced\obj\Debug\net6.0\LinqAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\omerc\RiderProjects\EgitimSolution\LinqAdvanced\obj\Debug\net6.0\LinqAdvanced.dll
+C:\Users\omerc\RiderProjects\EgitimSolution\LinqAdvanced\obj\Debug\net6.0\refint\LinqAdvanced.dll
+C:\Users\omerc\RiderProjects\EgitimSolution\LinqAdvanced\obj\Debug\net6.0\LinqAdvanced.pdb
+C:\Users\omerc\RiderProjects\EgitimSolution\LinqAdvanced\obj\Debug\net6.0\LinqAdvanced.genruntimeconfig.cache
+C:\Users\omerc\RiderProjects\EgitimSolution\LinqAdvanced\obj\Debug\net6.0\ref\LinqAdvanced.dll
